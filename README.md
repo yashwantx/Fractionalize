@@ -1,24 +1,13 @@
-# Super Fractionalizer
-
-<img src = "client/public/logo192.png" >
-
-The Super Fractionalizer is a smart contract that fractionalizes an ERC721 NFT directly into a Super Token. It brings to NFTs all of the juicy functionality the Superfluid protocol has built.
-
-- Per second token streaming
-  - Real-time investing
-  - Continuous auctions
-
-- Highly scalable, recurring token distributions
-Airdrops
-
-- Batchable transactions
-
-
-
-## How it's made
-
-We used @superfluid-finance/ethereum-contracts for the ISuperToken and ISuperTokenFactory, and @openzeppelin/contracts for the IERC721 interface and the Proxy contract. In the same transaction, the Super Fractionalizer creates a super token with the create2 opcode, sends the resulting address to the super token factory for upgrade, initializes the super token with some useful metadata and an initial supply, and locks the NFT in the super token contract. The client is a react app that searches for an NFT given an address, token id, and network, then prompts an approval, then fractionalization.
-
- The SDK interfaces with both contracts with typescript and typechain, for any external projects that may need type declarations.
-
-
+# Quick start
+Project name - Fractionalize
+1. Link to working code in a public repo - Steps to check the Unstoppable Domain integration 
+2. Clone the Repo
+3. cd Fractionalize
+4. npm install
+5. npm start
+6. Go to http://localhost:3000/
+6. Recorded video demo of the integration - https://www.loom.com/share/60fbe25fb84a4f51b71c71a4985aa112
+7. Person of contact in case there are any questions - Yashwant Choudhary (Email - yashwantresearch@gmail.com )
+8. Discord ID - yashwant.x#7381
+9. UnstoppableDomain registered account email address - yashwantresearch@gmail.com
+10. Code where UnstoppableDomain is used - https://github.com/yashwantx/Fractionalize
