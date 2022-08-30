@@ -1,5 +1,5 @@
 # Quick start
-Project name - Fractionalize
+Project name - Fractionaliz
 1. Link to working code in a public repo - Steps to check the Unstoppable Domain integration 
 2. Clone the Repo
 3. cd Fractionalize
