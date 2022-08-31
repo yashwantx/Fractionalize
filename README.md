@@ -10,4 +10,4 @@ Project name - Fractionalize
 7. Person of contact in case there are any questions - Yashwant Choudhary (Email - yashwantresearch@gmail.com )
 8. Discord ID - yashwant.x#7381
 9. UnstoppableDomain registered account email address - yashwantresearch@gmail.com
-10. Code where UnstoppableDomain is used - https://github.com/yashwantx/Fractionalize
+10.Code where UnstoppableDomain is used - https://github.com/yashwantx/Fractionalize
